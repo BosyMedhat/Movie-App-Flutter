@@ -61,8 +61,8 @@ Before running the project, make sure you have the following installed:
 
 💻 Tech Stack
 
-Framework: Flutter
-Language: Dart
+- Framework: Flutter
+- Language: Dart
 
 
 
